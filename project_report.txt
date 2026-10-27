@@ -1,0 +1,21 @@
+ELECTRIC VEHICLE MARKET ANALYSIS
+Project by: Alok Shukla
+
+1. Introduction
+Electric vehicles are becoming an important part of modern transportation. This project studies technical specifications of electric vehicles and converts the raw data into useful analytical information.
+
+2. Objectives
+- Clean and prepare the EV dataset.
+- Study battery capacity and driving range.
+- Analyze EV brands and body types.
+- Visualize important patterns.
+- Prepare data for Tableau dashboard development.
+
+3. Methodology
+The project follows data inspection, cleaning, verification, exploratory data analysis and visualization. Python libraries such as Pandas, NumPy, Matplotlib and Seaborn are used.
+
+4. Expected Analysis
+The project examines brand representation, driving range, battery capacity, efficiency, drivetrain and body type. The relationship between battery capacity and range is also analyzed.
+
+5. Conclusion
+The project demonstrates how raw EV specification data can be cleaned, analyzed and visualized to support data-driven understanding of electric vehicles.

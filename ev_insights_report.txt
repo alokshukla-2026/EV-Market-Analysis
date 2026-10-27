@@ -1,0 +1,9 @@
+ELECTRIC VEHICLE MARKET ANALYSIS - INSIGHTS
+Author: Alok Shukla
+Total records: 30
+Average battery capacity (kWh): 75.67
+Average driving range (km): 435.83
+Maximum driving range (km): 606.00
+Average efficiency (Wh/km): 174.10
+Battery-range correlation: -0.11
+Most represented body type: Sedan
